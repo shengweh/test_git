@@ -1,1 +1,2 @@
 Full name: Shengwei Huang
+Department: CS
